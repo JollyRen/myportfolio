@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "CryptKeeper",
+      "uri": "https://github.com/jonathan-jeremy/cryptkeeper",
+      "slug": "cryptkeeper",
+      "summary": "CryptKeeper is an App that stores your passwords on an encrypted file called a cryptkeeper: <your_crypt>.cryptkeeper. \n\nIt also stores user data for login to the app in an encrypted .crypt file.\n\nThe goal of CryptKeeper is to prevent any visibility of passwords, even to your system. You only need to log in, search for the password information you want, click the button to send it to your clipboard for a limited time, paste the password into a password field, and move on.",
+      "technologies": ["React.js", "React-Router", "Electron.js", "Node.js", "fs-jetpack", "Excalidraw", "crypto-js", "electron-react-app", "Webpack", "Babel", "SASS"]
+    },
+    {
+      "id": "2",
+      "title": "dotGuide",
+      "uri": "https://readme-c72e5.web.app/",
+      "slug": "dotGuide",
+      "summary": "dotGuide is a developer tool for standardizing code structure, storing reference code, and creating educational guides in an easy-to-follow format. Whether you are an organization looking to streamline your developer's best coding practices, or a new developer looking to learn, dotGuide has something for everyone! Feel free to poke around, or if you're ready, click the button below to get started creating your very own guide!",
+      "technologies": ["React.js", "Node.js", "Firebase", "Firestore", "OAuth", "Material UI"]
+    },
+    {
+      "id": "3",
+      "title": "My Portfolio Page",
+      "uri": "",
+      "slug": "portfolio",
+      "summary": "My portfolio page itself is made using Vue.js and deployed on ...",
+      "technologies": ["Vue.js 3", "Vue-Router", "Vue-CLI", "Tailwinds CSS", "ESLint: Standard", "Prettier", "Vetur", "Babel", "PostCSS"]
+    }
+  ],
+  "blogs": [
+    {}
+  ]
+}
