@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "title": "How to Solve Linter and Formatter Issues in Vue.js",
+    "createdAt": "Sat Apr 23 2022 15:47:10",
+    "uri": "https://readme-c72e5.web.app/guide/cINHPMPYRTDRJZwAViSR",
+    "summary": "When you encounter issues of Linter and Formatter the answer is usually \"remove Prettier\" or \"use Vetur\" or some other crazy solution. It's much better to just follow Vue's recommendation and let your tools work together. This guide highlights an example of how to use Prettier, ESLint, EditorConfig together in a basic way, using ESLint standard preset, and what your package.json will look like afterward.\n\nJoin me as I walk you through what makes the ESLinter and Formatters work together on industrial, departmental, and personal scale in Vue (and other frameworks). Especially as we move into a world of \"create-x-app\" scripting and more open-source software development."
+  }
+]
