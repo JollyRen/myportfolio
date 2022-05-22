@@ -1,5 +1,5 @@
 <template>
-  <div :class="main">
+  <div v-if="mode === 'dark'" :class="darkMain">
     <nav :class="navContainer">
       <span v-for="(nav, index) in navs" :key="index"
         ><router-link :to="nav.url" :class="navLinks">{{
@@ -69,7 +69,7 @@ export default {
       LightModeLinkedIn,
       LightModeTwitter,
       mode: localStorage.getItem('theme'),
-      main: 'bg-slate-200 min-h-screen dark:bg-gray-800',
+      darkMain: 'dark bg-slate-200 min-h-screen dark:bg-gray-800',
       navContainer:
         'bg-gray-500 flex justify-center box-border p-5 text-gray-100',
       navLinks:
