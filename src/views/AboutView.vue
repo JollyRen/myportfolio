@@ -153,7 +153,7 @@ export default {
         "It warms my heart to know that I could help that goal get met as I work, if I'm working with the right company. I don't know if I could help everyone, but I'd like to help as many as I can, wherever I am. I live a very modest life, always trying to give back to others and help where I can.",
         "I want to be a success on my terms. Help my wife, my family, my husky, and as many people that need it as possible. That's success to me. I love to learn, I love to teach, and I love to travel. Recreation is great, but I get more fulfillment out of doing something important for others.",
         "I know it's quite a read. The journey part especially, so don't feel obliged 😁",
-        "If you've read up until here, thank you very much for all you do. Regardless of whether you believe any of the roles are a match for me, the company looks like it's doing a lot of good work.",
+        "If you've read up until here, thank you very much for all you do.",
         'Sincerely,',
         'Jeremy Rogers'
       ],

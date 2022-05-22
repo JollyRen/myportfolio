@@ -34,9 +34,7 @@
         more...
       </p>
       <p class="mt-3">
-        Want to know exactly
-        <router-link :class="link" to="/blog">what all that means</router-link>
-        and what I get up to?
+        Want to know exactly what all that means and what I get up to?
       </p>
       <router-link :class="link" to="/portfolio"
         >Check out the rest of my portfolio!</router-link
